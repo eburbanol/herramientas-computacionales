@@ -1,0 +1,15 @@
+#! /usr/bin/python
+# -*- coding: utf8 -*-
+
+import math
+
+a,b,c= intput("Teclee 3 numeros")
+print a,b,c
+w=raw_input("Teclees una palabra con mas de 5 letras")
+
+print w
+print w[2:5]
+print w[3]
+print w[4:1:-1]
+print w[::-1]
+print w[::2]

@@ -1,0 +1,5 @@
+#! /usr/bin/python
+# -*- coding: utf8 -*-
+
+a=9
+print "{:1d}".format(a)

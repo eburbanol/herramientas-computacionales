@@ -1,0 +1,7 @@
+#! /usr/bin/python
+# -*- coding: utf8 -*-
+
+a,b= input ("digite la parte real de su numero y luego la imaginaria, separadas por coma (,)  ")
+c= complex (a,b)
+
+print ("El cuadrado del modulo de su numero complejo es: "), divmod(a,b)*divmod(a,b)
