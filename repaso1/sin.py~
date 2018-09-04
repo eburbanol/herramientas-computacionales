@@ -1,7 +1,0 @@
-#! /usr/bin/python
-# -*- coding: utf8 -*-
-
-import math
-
-a=input("Digite un numero ")
-print ("El seno de "),a (" es: "), sin(a)
